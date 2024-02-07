@@ -1,5 +1,3 @@
-# Based9Based version of ROOP, No NSFW Filter, No ERRORS ;)
-Google Colab Link: [Click here](https://basedbased.blogspot.com/2023/08/google-colab-for-deepfake-face-swapping.html)
 
 # Roop
 
@@ -12,8 +10,6 @@ Google Colab Link: [Click here](https://basedbased.blogspot.com/2023/08/google-c
 Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. We have a very helpful.
 
 [Basic](https://github.com/s0md3v/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
-
-[Acceleration](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
 
 
 ## Usage
@@ -60,9 +56,6 @@ We are aware of the potential ethical issues and have implemented measures to pr
 Users are expected to follow local laws and use the software responsibly. If using real faces, get consent and clearly label deepfakes when sharing. The developers aren't liable for user actions.
 
 
-## Licenses
-
-Our software uses a lot of third party libraries as well pre-trained models. The users should keep in mind that these third party components have their own license and terms, therefore our license is not being applied.
 
 
 ## Credits
